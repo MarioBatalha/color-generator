@@ -7,7 +7,7 @@
 
 <h1 align="center">Color generator</h1>
 
-Color generator using React js and Valuejs.
+Color generator using React and Valuejs.
 
 
 <h1 align="center">
