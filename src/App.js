@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import SingleColor from './SingleColor'
+import SingleColor from './components/SingleColor'
 
 import Values from 'values.js'
 
